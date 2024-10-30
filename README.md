@@ -1,10 +1,10 @@
 <h2> Hi, I'm Ayush Raj <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>just an abnormal boy from <a href="http://www.unb.br">Bihar</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>just an abnormal boy from <a href="http://www.unb.br">Bihar</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web Developer <a href="#"> Editor</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: Toffee](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](#)
-[![Linkedin: Toffee](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=#)](#)
+[![Twitter: Toffee](https://img.shields.io/twitter/follow/Toffee?style=social)](#)
+[![Linkedin: Toffee](https://img.shields.io/badge/-Toffee?style=flat-square&logo=Linkedin&logoColor=white&link=#)](#)
 [![GitHub Toffee](https://img.shields.io/github/followers/toffee4u?label=follow&style=social)](https://github.com/Toffee4uu)
 
 
