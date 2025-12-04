@@ -5,13 +5,13 @@
 
 👨‍💻 Full-Stack Developer
 
-🎯 Focus: Web, Automations, Bots, UI/UX
+🎯 Builds Web Apps • Bots • APIs
 
-📌 From Bihar, India
+📌 Bihar, India
 
-🔥 Love creating clean, fast & powerful apps
+💡 Love modern UI, performance & automation
 
-📚 Learning advanced backend + cloud + AI
+🚀 Exploring Cloud + AI integrations
 
 🛠️ Tech Stack
 Frontend
@@ -22,18 +22,11 @@ Databases
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
 Tools
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,docker" />
-🔥 GitHub Activity (Custom Stats)
-📈 Total Contributions: 254
-🔥 Current Streak: 17 days
-🏆 Longest Streak: 153 days
-<p align="center"> <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="350" /> </p>
-📊 GitHub Auto Stats
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushraj&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraj&layout=compact&theme=tokyonight" /> </p>
-⚔️ Solo Leveling Mode
-<p align="center"> <img src="https://i.pinimg.com/originals/0b/37/81/0b3781b9ae0438de9668df7c6ff3e94b.gif" width="420" /> </p>
+<p align="center"> <img src="https://i.imgur.com/m2i5b1T.gif" width="350" /> </p>
+<p align="center"> <img src="https://i.imgur.com/BzT1VqP.gif" width="240" /> </p>
 📫 Reach Me
 
-Telegram / Discord: (add your username)
+Telegram / Discord: (your username)
 
 Email: (your email)
 
