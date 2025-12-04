@@ -1,28 +1,50 @@
-<h2> Hi, I'm Ayush Raj <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>just an abnormal boy from <a href="http://www.unb.br">Bihar</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Web Developer and <a href="#"> Editor</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+🌟 Ayush Raj — Full-Stack Developer
+🚀 Crafting Web Experiences | ⚡ 18 y/o Developer | 🇮🇳 Bihar, India
+<p align="center"> <img src="https://media.tenor.com/2uyENR6Y19YAAAAC/coding.gif" width="400" /> </p>
+👋 About Me
 
-[![Twitter: Toffee](https://img.shields.io/twitter/follow/Toffee?style=social)](#)
-[![Linkedin: Toffee](https://img.shields.io/badge/-Toffee?style=flat-square&logo=Linkedin&logoColor=white&link=#)](#)
-[![GitHub Toffee](https://img.shields.io/github/followers/toffee4u?label=follow&style=social)](https://github.com/Toffee4uu)
+👨‍💻 Full-Stack Developer (Frontend + Backend + DB)
 
+📍 From Bihar, India
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+🎓 18 years old
 
-```javascript
-const thai = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        idol: "Chai Aur Code"
-                      },
- challenge: "I am doing nothing,Yeh i said nothing. Code challenge focused on react and typescript"
-}
-```
+❤️ Passionate about web apps, automation, bots, and modern UI
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+🔥 Love to build high-performance systems & beautiful interfaces
 
----
+🎯 Currently exploring AI + Web + Bots + Cloud
+
+🛠️ Tech Stack & Skills
+Frontend
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" /> </p>
+Backend
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,php,py,express" /> </p>
+Databases
+<p align="left"> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /> </p>
+Tools & Others
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,docker" /> </p>
+🚀 What I Do
+
+✔ Build modern UI with Tailwind + React + TypeScript
+✔ Create scalable backend systems
+✔ Design & manage database architectures (PostgreSQL, SQL)
+✔ Develop bots, automation tools & APIs
+✔ Deploy full production apps on Vercel / Render / VPS
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushraj&show_icons=true&theme=radical" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraj&layout=compact&theme=radical" height="170" /> </p>
+🔥 Streaks
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushraj&theme=radical" /> </p>
+✨ Animated Developer Vibes
+<p align="center"> <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="350" /> <img src="https://media.tenor.com/flflC6GFzO8AAAAM/smile.gif" width="350" /> </p>
+📫 Reach Me
+
+💬 Discord / Telegram: @soloo_enough
+
+📧 Email: toffee4uuh@gmail.com
+
+🌐 Portfolio coming soon...
+
+⭐ If you like my work, consider giving a star!
+<p align="center"> <img src="https://media.tenor.com/HLgSgEK0Ev4AAAAC/star.gif" width="200" /> </p>
