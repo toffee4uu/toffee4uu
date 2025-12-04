@@ -17,9 +17,7 @@ const thai = {
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "Apna College",
-                        speaker: "Nidhi Mam",
-                        mentor: "Code with harry"
+                        idol: "Chai Aur Code"
                       },
  challenge: "I am doing nothing,Yeh i said nothing. Code challenge focused on react and typescript"
 }
