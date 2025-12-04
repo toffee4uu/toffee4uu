@@ -1,50 +1,40 @@
 🌟 Ayush Raj — Full-Stack Developer
-🚀 Crafting Web Experiences | ⚡ 18 y/o Developer | 🇮🇳 Bihar, India
-<p align="center"> <img src="https://media.tenor.com/2uyENR6Y19YAAAAC/coding.gif" width="400" /> </p>
+⚡ 18 y/o | 🚀 Web Dev | 🇮🇳 Bihar, India
+<p align="center"> <img src="https://i.pinimg.com/originals/7e/34/ce/7e34ceab3dfbec20b59f82bc5eac4290.gif" width="450" /> </p>
 👋 About Me
 
-👨‍💻 Full-Stack Developer (Frontend + Backend + DB)
+👨‍💻 Full-Stack Developer
 
-📍 From Bihar, India
+🎯 Focus: Web, Automations, Bots, UI/UX
 
-🎓 18 years old
+📌 From Bihar, India
 
-❤️ Passionate about web apps, automation, bots, and modern UI
+🔥 Love creating clean, fast & powerful apps
 
-🔥 Love to build high-performance systems & beautiful interfaces
+📚 Learning advanced backend + cloud + AI
 
-🎯 Currently exploring AI + Web + Bots + Cloud
-
-🛠️ Tech Stack & Skills
+🛠️ Tech Stack
 Frontend
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" /> </p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 Backend
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,php,py,express" /> </p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,py,express" />
 Databases
-<p align="left"> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /> </p>
-Tools & Others
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,docker" /> </p>
-🚀 What I Do
-
-✔ Build modern UI with Tailwind + React + TypeScript
-✔ Create scalable backend systems
-✔ Design & manage database architectures (PostgreSQL, SQL)
-✔ Develop bots, automation tools & APIs
-✔ Deploy full production apps on Vercel / Render / VPS
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushraj&show_icons=true&theme=radical" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraj&layout=compact&theme=radical" height="170" /> </p>
-🔥 Streaks
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=ayushraj&theme=radical" /> </p>
-✨ Animated Developer Vibes
-<p align="center"> <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="350" /> <img src="https://media.tenor.com/flflC6GFzO8AAAAM/smile.gif" width="350" /> </p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,docker" />
+🔥 GitHub Activity (Custom Stats)
+📈 Total Contributions: 254
+🔥 Current Streak: 17 days
+🏆 Longest Streak: 153 days
+<p align="center"> <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="350" /> </p>
+📊 GitHub Auto Stats
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushraj&show_icons=true&theme=tokyonight" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushraj&layout=compact&theme=tokyonight" /> </p>
+⚔️ Solo Leveling Mode
+<p align="center"> <img src="https://i.pinimg.com/originals/0b/37/81/0b3781b9ae0438de9668df7c6ff3e94b.gif" width="420" /> </p>
 📫 Reach Me
 
-💬 Discord / Telegram: @soloo_enough
+Telegram / Discord: (add your username)
 
-📧 Email: toffee4uuh@gmail.com
+Email: (your email)
 
-🌐 Portfolio coming soon...
-
-⭐ If you like my work, consider giving a star!
-<p align="center"> <img src="https://media.tenor.com/HLgSgEK0Ev4AAAAC/star.gif" width="200" /> </p>
+<p align="center"> <img src="https://media.tenor.com/HLgSgEK0Ev4AAAAC/star.gif" width="200" /><br> ⭐ **If you like my work, consider giving a star!** </p>
