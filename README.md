@@ -22,7 +22,8 @@ Backend  <br>
 Databases  <br>
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /><br>
-Tools
+Tools  <br>
+
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,docker" /><br>
 
 📫 Reach Me
