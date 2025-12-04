@@ -14,13 +14,13 @@
 
 🛠️ Tech Stack
 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" /><br>
 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,php,py,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,php,py,express" /><br>
 Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /><br>
 Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,docker" /><br>
 📫 Reach Me
 
 Telegram / Discord: @soloo_enough
