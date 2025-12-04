@@ -13,14 +13,18 @@
 🚀 Exploring Cloud + AI integrations
 
 🛠️ Tech Stack
-Frontend
+Frontend <br>
+
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" /><br>
-Backend
+Backend  <br>
+
 <img src="https://skillicons.dev/icons?i=nodejs,php,py,express" /><br>
-Databases
+Databases  <br>
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" /><br>
 Tools
 <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,linux,docker" /><br>
+
 📫 Reach Me
 
 Telegram / Discord: @soloo_enough
